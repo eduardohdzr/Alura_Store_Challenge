@@ -19,6 +19,16 @@ El presente proyecto tiene como finalidad asistir al Sr. Juan en la toma de deci
 ## :computer: **Ejecución del proyecto**
 Abrir el Notebook [`Alura_Store.ipynb`](https://colab.research.google.com/github/eduardohdzr/Alura_Store_Challenge/blob/main/Alura_Store.ipynb) y ejecutar todas las  celdas de código. 
 
+## :chart_with_upwards_trend: **Visualizaciones**
+
+![Ingreso anual por tienda](https://github.com/eduardohdzr/Alura_Store_Challenge/blob/main/Total_tiendas.png) 
+
+![Ingreso periodo por tienda](https://github.com/eduardohdzr/Alura_Store_Challenge/blob/main/ingreso_total_periodo.png) 
+
+![Ventas por categoria](https://github.com/eduardohdzr/Alura_Store_Challenge/blob/main/total_categoria.png) 
+
+![Ingreso total por categoria](https://github.com/eduardohdzr/Alura_Store_Challenge/blob/main/total_categoria.png) 
+
 
 ## :wrench: **Tecnologías utilizadas**
 
